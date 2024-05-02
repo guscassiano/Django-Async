@@ -1,2 +1,2 @@
 # django-async
-Django Async test view
+Test using Django Async with http request
